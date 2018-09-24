@@ -18,4 +18,4 @@
 ```rosrun rviz rviz```
 * Find the “Marker” and add a "Marker". Now Rviz should start to listen to the Marker messages
 published from the rrt node, and you should see a screen something similar to the following video:
-[![Watch the video]()](https://www.youtube.com/watch?v=SZ9c_3HUVUE&t=5s)
+[![Watch the video](https://github.com/kadupitiya/rrt/blob/master/images/image.jpg)](https://www.youtube.com/watch?v=SZ9c_3HUVUE&t=5s)
