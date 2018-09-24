@@ -1,0 +1,8 @@
+prefix=/home/kadupitiya/Ros_workspace/rrt/devel
+
+Name: rrt-planning
+Description: Description of rrt-planning
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kadupitiya/Ros_workspace/rrt/devel/lib 
+Requires: 

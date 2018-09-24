@@ -1,0 +1,2 @@
+rrt
+-DCATKIN_DEVEL_PREFIX=/home/kadupitiya/Ros_workspace2/rrt/devel -DCMAKE_INSTALL_PREFIX=/home/kadupitiya/Ros_workspace2/rrt/install -G Unix Makefiles

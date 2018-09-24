@@ -1,0 +1,8 @@
+prefix=/home/kadupitiya/Ros_workspace2/rrt/devel
+
+Name: rrt
+Description: Description of rrt
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kadupitiya/Ros_workspace2/rrt/devel/lib 
+Requires: 

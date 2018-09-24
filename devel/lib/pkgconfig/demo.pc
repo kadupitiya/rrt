@@ -1,0 +1,8 @@
+prefix=/home/kadupitiya/Ros_workspace/rrt/devel
+
+Name: demo
+Description: Description of demo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kadupitiya/Ros_workspace/rrt/devel/lib 
+Requires: 
