@@ -1,5 +1,5 @@
 # Goal Biased Rapidly-Exploring Random Tree
-This video demonstrates the simulation of goal biased RRT. This also retrieves the shortest path from the RRT path and then smooth the path using multinomial regression based curve fitting.
+This project demonstrates the simulation of goal biased RRT. This also retrieves the shortest path from the RRT path and then smooth the path using multinomial regression based curve fitting.
 
 ## Instructions to run the project
 * First, git clone the project
