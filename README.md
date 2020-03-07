@@ -18,5 +18,6 @@ This video demonstrates the simulation of goal biased RRT. This also retrieves t
 * Finally, open another terminal and run rviz to see the visualization(terminal 3):
 ```rosrun rviz rviz```
 * Find the “Marker” and add a "Marker". Now Rviz should start to listen to the Marker messages
-published from the rrt node, and you should see a screen something similar to the following video:
+published from the rrt node.
+* video:
 [![Watch the video](https://github.com/kadupitiya/rrt/blob/master/images/image.jpg)](https://www.youtube.com/watch?v=SZ9c_3HUVUE&t=5s)
